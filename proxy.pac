@@ -5,5 +5,6 @@ function FindProxyForUrl(url, host) {
 }
 
 const proxyHosts = [
+    "ct.uio.no",
     "link.springer.com",
 ];
